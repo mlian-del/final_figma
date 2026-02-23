@@ -1,0 +1,113 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #ed7272;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 104px;
+  top: 37px;
+  width: 166px;
+  height: 31px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 71px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 841px;
+  top: 33px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1222px;
+  position: absolute;
+  left: 139px;
+  top: 231px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1167px;
+  position: relative;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.professor-contact-details-paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.ta-contact-details-bharath-sreekumar-bsreekum-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  width: 1055px;
+}
